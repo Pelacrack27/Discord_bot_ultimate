@@ -18,6 +18,7 @@ class Ayuda(commands.Cog):
     embed.set_author(name=ctx.author.display_name,  icon_url=ctx.author.avatar_url)
     embed.add_field(name="!multimonos", value="Multisummon de goku y vegeta ssj4 septimo aniversario", inline=False)
     embed.add_field(name="!multigods", value="Multisummon de goku y vegeta ssj god septimo aniversario", inline=False)
+    embed.add_field(name="!multizdokkan", value="Multisummon de extreme z battle", inline=False)
     embed.set_footer(text="Muchas gracias por usar el bot!")
     await ctx.send(embed=embed)
 
