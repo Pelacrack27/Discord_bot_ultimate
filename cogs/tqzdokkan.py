@@ -50,7 +50,7 @@ cualquier_sr_zdokkan = [
     "<:SR_eclair:971673046496731166> Random"
 ]
 
-class Multizdokkan(commands.Cog):
+class Tqzdokkan(commands.Cog):
 
   def __init__(self, client):
     self.client = client
@@ -58,11 +58,11 @@ class Multizdokkan(commands.Cog):
   #Eventos del bot
   @commands.Cog.listener()
   async def on_ready(self):
-    print("multizdokkan online")
+    print("tqzdokkan online")
 
   #Comandos del bot
   @commands.command()
-  async def multizdokkan(self, ctx):
+  async def tqzdokkan(self, ctx):
     await ctx.send("**Empezando multisummon:**")
     await ctx.send("<:SSR_eclair:971672682712141844> Featured - 3 puntos")
     await ctx.send("<:SSR_eclair:971672682712141844> No featured - 2 puntos")
@@ -100,4 +100,4 @@ class Multizdokkan(commands.Cog):
 
 
 def setup(client):
-	client.add_cog(Multizdokkan(client))
+	client.add_cog(Tqzdokkan(client))

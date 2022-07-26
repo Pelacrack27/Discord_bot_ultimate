@@ -56,7 +56,7 @@ cualquier_sr_kaioken = [
     "<:SR_eclair:971673046496731166> Random"
 ]
 
-class Multikaioken(commands.Cog):
+class Tqkaioken(commands.Cog):
 
   def __init__(self, client):
     self.client = client
@@ -64,11 +64,11 @@ class Multikaioken(commands.Cog):
   #Eventos del bot
   @commands.Cog.listener()
   async def on_ready(self):
-    print("multikaioken online")
+    print("tqkaioken online")
 
   #Comandos del bot
   @commands.command()
-  async def multikaioken(self, ctx):
+  async def tqkaioken(self, ctx):
     await ctx.send("**Empezando multisummon:**")
     await ctx.send("<:LR_logo_apng:978185948787531816> featured - 5 puntos")
     await ctx.send("<:SSR_eclair:971672682712141844> Featured - 3 puntos")
@@ -113,4 +113,4 @@ class Multikaioken(commands.Cog):
 
 
 def setup(client):
-	client.add_cog(Multikaioken(client))
+	client.add_cog(Tqkaioken(client))

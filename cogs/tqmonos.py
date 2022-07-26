@@ -56,7 +56,7 @@ cualquier_sr_monos = [
     "<:SR_eclair:971673046496731166> Random"
 ]
 
-class Multimonos(commands.Cog):
+class Tqmonos(commands.Cog):
 
   def __init__(self, client):
     self.client = client
@@ -64,11 +64,11 @@ class Multimonos(commands.Cog):
   #Eventos del bot
   @commands.Cog.listener()
   async def on_ready(self):
-    print("multimonos online")
+    print("tqmonos online")
 
   #Comandos del bot
   @commands.command()
-  async def multimonos(self, ctx):
+  async def tqmonos(self, ctx):
     await ctx.send("**Empezando multisummon:**")
     await ctx.send("<:LR_logo_apng:978185948787531816> featured - 5 puntos")
     await ctx.send("<:SSR_eclair:971672682712141844> Featured - 3 puntos")
@@ -123,4 +123,4 @@ class Multimonos(commands.Cog):
 
 
 def setup(client):
-	client.add_cog(Multimonos(client))
+	client.add_cog(Tqmonos(client))
