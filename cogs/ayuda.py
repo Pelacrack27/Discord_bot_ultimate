@@ -16,11 +16,8 @@ class Ayuda(commands.Cog):
   async def ayuda(self, ctx):
     embed=discord.Embed(title="Ayuda",  description="A continuación se muestran los multisummons diponibles", color=discord.Color.blue())
     embed.set_author(name=ctx.author.display_name,  icon_url=ctx.author.avatar_url)
-    embed.add_field(name="!multimonos (Dragon stones)", value="Multisummon de goku y vegeta ssj4 septimo aniversario", inline=False)
-    embed.add_field(name="!multigods (Dragon stones)", value="Multisummon de goku y vegeta ssj god septimo aniversario", inline=False)
-    embed.add_field(name="!multizgogeta (Dragon stones)", value="Multisummon de extreme z battle gogeta", inline=False)
-    embed.add_field(name="!multikaioken (Dragon stones)", value="Multisummon de goku (kaioken) y vegeta", inline=False)
-    embed.add_field(name="!multizgoku (Dragon stones)", value="Multisummon de extreme z battle goku ssj4", inline=False)
+    embed.add_field(name="!multibardock (Dragon stones)", value="Multisummon de bardock", inline=False)
+    embed.add_field(name="!multizturles (Dragon stones)", value="Multisummon de extreme z battle bardock", inline=False)
     embed.add_field(name="!multiraditz (Dragon stones)", value="Multisummon de raditz", inline=False)
     embed.add_field(name="!multisaga (Dragon stones)", value="Multisummon de saiyan saga", inline=False)
     embed.set_footer(text="Muchas gracias por usar el bot!")

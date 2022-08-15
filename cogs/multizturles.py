@@ -8,17 +8,18 @@ animaciones_summons = [
   "https://c.tenor.com/c_MZLKFOgV0AAAAM/summon-anniversary.gif"
 ]
 
-featured_ssr_zgoku = [
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/0/04/Card_1014120_thumb.png/revision/latest/scale-to-width-down/120?cb=20181121011820",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/0/04/Card_1006410_thumb.png/revision/latest/scale-to-width-down/120?cb=20160930094841",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b0/Card_1005990_thumb.png/revision/latest/scale-to-width-down/120?cb=20170915100641",
+featured_ssr_zturles = [
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/d/dc/Card_1013560_thumb.png/revision/latest/scale-to-width-down/120?cb=20180813001431",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/f/f1/Card_1015150_thumb.png/revision/latest/scale-to-width-down/120?cb=20180831034133",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/6/6d/Card_1014810_thumb.png/revision/latest/scale-to-width-down/120?cb=20180831034838"
 ]
 
-cualquier_sr_zgoku = [
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b9/Card_1010530_thumb.png/revision/latest/scale-to-width-down/120?cb=20170915101117",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/6/68/Card_1010520_thumb.png/revision/latest/scale-to-width-down/120?cb=20170915100349",
-    "<:SR_eclair:971673046496731166> Random",
-    "<:SR_eclair:971673046496731166> Random",
+cualquier_sr_zturles = [
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/e/eb/Card_1000060_thumb.png/revision/latest/scale-to-width-down/120?cb=20150922211230",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/4/4a/Card_1000050_thumb.png/revision/latest/scale-to-width-down/120?cb=20150922210531",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/3/38/Card_1002130_thumb.png/revision/latest/scale-to-width-down/120?cb=20151023121313",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/be/Card_1000850_thumb.png/revision/latest/scale-to-width-down/120?cb=20150910082207",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/c/c5/Card_1000030_thumb.png/revision/latest/scale-to-width-down/120?cb=20150828224647",
     "<:SR_eclair:971673046496731166> Random",
     "<:SR_eclair:971673046496731166> Random",
     "<:SR_eclair:971673046496731166> Random",
@@ -47,7 +48,7 @@ cualquier_sr_zgoku = [
     "<:SR_eclair:971673046496731166> Random"
 ]
 
-class Multizgoku(commands.Cog):
+class Multizturles(commands.Cog):
 
   def __init__(self, client):
     self.client = client
@@ -55,11 +56,11 @@ class Multizgoku(commands.Cog):
   #Eventos del bot
   @commands.Cog.listener()
   async def on_ready(self):
-    print("multizgoku online")
+    print("multizturles online")
 
   #Comandos del bot
   @commands.command()
-  async def multizgoku(self, ctx):
+  async def multizturles(self, ctx):
     await ctx.send("**Empezando multisummon:**")
     await ctx.send("<:SSR_eclair:971672682712141844> Featured - 3 puntos")
     await ctx.send("<:SSR_eclair:971672682712141844> No featured - 2 puntos")
@@ -67,7 +68,7 @@ class Multizgoku(commands.Cog):
     await ctx.send( random.choice(animaciones_summons))
     puntos = 0
     if random.randint(1, 10000) >= 9500:
-        random1 = random.choice(featured_ssr_zgoku)
+        random1 = random.choice(featured_ssr_zturles)
         await ctx.send(random1)
         puntos = puntos + 3
     else:
@@ -77,7 +78,7 @@ class Multizgoku(commands.Cog):
       for i in range(0, 9):
             numero = random.randint(1, 10000)
             if numero >= 9500:
-                random2 = random.choice(featured_ssr_zgoku)
+                random2 = random.choice(featured_ssr_zturles)
                 await ctx.send(random2)
                 puntos = puntos + 3
             elif numero >= 9000:
@@ -85,8 +86,9 @@ class Multizgoku(commands.Cog):
                     "<:SSR_eclair:971672682712141844> Random")
                 puntos = puntos + 2
             elif numero >= 3000:
-                await ctx.send(random.choice(cualquier_sr_zgoku))
+                await ctx.send(random.choice(cualquier_sr_zturles))
                 puntos = puntos + 1
+            else:
                 await ctx.send(
                     "<:R_eclair:971673105024045056> Personaje kk")
       await ctx.send(f"Total de puntos: {puntos}")
@@ -104,4 +106,4 @@ class Multizgoku(commands.Cog):
 
 
 def setup(client):
-	client.add_cog(Multizgoku(client))
+	client.add_cog(Multizturles(client))
