@@ -20,6 +20,10 @@ class Ayuda(commands.Cog):
     embed.add_field(name="!multizturles (Dragon stones)", value="Multisummon de extreme z battle bardock", inline=False)
     embed.add_field(name="!multiraditz (Dragon stones)", value="Multisummon de raditz", inline=False)
     embed.add_field(name="!multisaga (Dragon stones)", value="Multisummon de saiyan saga", inline=False)
+    embed.add_field(name="!tqmovies (Tiquets)", value="Summon de tiquets de dragon ball super: super hero", inline=False)
+    embed.add_field(name="!tqdokkan1 (Tiquets)", value="Summon de tiquets de campaña mundial 1", inline=False)
+    embed.add_field(name="!tqdokkan2 (Tiquets)", value="Summon de tiquets de campaña mundial 2", inline=False)
+
     embed.set_footer(text="Muchas gracias por usar el bot!")
     await ctx.send(embed=embed)
 

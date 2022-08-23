@@ -343,12 +343,9 @@ class Tqmovies(commands.Cog):
             elif numero >= 9000:
                 await ctx.send(random.choice(cualquier_ssr_movies))
                 puntos = puntos + 2
-            elif numero >= 3000:
+            else:
                 await ctx.send(random.choice(cualquier_sr_movies))
                 puntos = puntos + 1
-            else:
-                await ctx.send(
-                    "<:R_eclair:971673105024045056> Personaje kk")
     await ctx.send(f"Total de puntos: {puntos}")
     if puntos >= 15:
           await ctx.send("https://i.pinimg.com/564x/4c/4d/88/4c4d8867c58389c11d6d05221aa16632.jpg")
