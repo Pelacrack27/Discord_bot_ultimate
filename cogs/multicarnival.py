@@ -376,7 +376,7 @@ class Multicarnival(commands.Cog):
         await ctx.send(random.choice(featured_ssr_carnival))
         puntos = puntos + 3
     else:
-        await ctx.send(random.chice(cualquier_ssr_carnival))
+        await ctx.send(random.choice(cualquier_ssr_carnival))
         puntos = puntos + 2
     await ctx.send(f"Total de puntos: {puntos}")
     if puntos >= 15:
