@@ -372,15 +372,14 @@ class Multicarnival(commands.Cog):
                 puntos = puntos + 1
             else:
                 await ctx.send(
-                    "<:R_eclair:971673105024045056> Personaje kk")
-                    
+                    "<:R_eclair:971673105024045056> Personaje kk")       
     if random.randint(1, 10000) >= 9500:
         random1 = random.choice(featured_ssr_carnival)
         await ctx.send(random1)
         puntos = puntos + 3
     else:
-      await ctx.send(cualquier_ssr_carnival)
-      puntos = puntos + 2
+        await ctx.send(cualquier_ssr_carnival)
+        puntos = puntos + 2
     await ctx.send(f"Total de puntos: {puntos}")
     if puntos >= 15:
           await ctx.send("https://i.pinimg.com/564x/4c/4d/88/4c4d8867c58389c11d6d05221aa16632.jpg")
