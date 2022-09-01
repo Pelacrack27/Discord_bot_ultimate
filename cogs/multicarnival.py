@@ -372,8 +372,8 @@ class Multicarnival(commands.Cog):
                 puntos = puntos + 1
             else:
                 await ctx.send("<:R_eclair:971673105024045056> Personaje kk")  
-    await ctx.send("done")     
-    if random.randint(1, 10000) >= 9500:
+    randomnum = random.randint(1, 10000)
+    if randomnum >= 9500:
         await ctx.send(random.choice(featured_ssr_carnival))
         puntos = puntos + 3
     else:
