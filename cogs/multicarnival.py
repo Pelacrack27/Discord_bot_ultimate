@@ -373,6 +373,7 @@ class Multicarnival(commands.Cog):
             else:
                 await ctx.send(
                     "<:R_eclair:971673105024045056> Personaje kk")
+                    
     if random.randint(1, 10000) >= 9500:
         random1 = random.choice(featured_ssr_carnival)
         await ctx.send(random1)
