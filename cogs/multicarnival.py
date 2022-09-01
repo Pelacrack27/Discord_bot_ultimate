@@ -356,7 +356,7 @@ class Multicarnival(commands.Cog):
     await ctx.send("<:SSR_eclair:971672682712141844> Featured - 3 puntos")
     await ctx.send("<:SSR_eclair:971672682712141844> No featured - 2 puntos")
     await ctx.send("<:SR_eclair:971673046496731166>  - 1 punto")
-    await ctx.send( random.choice(animaciones_summons))
+    await ctx.send(random.choice(animaciones_summons))
     puntos = 0
     for i in range(0, 9):
             numero = random.randint(1, 10000)
@@ -371,11 +371,10 @@ class Multicarnival(commands.Cog):
                 await ctx.send(random.choice(cualquier_sr_carnival))
                 puntos = puntos + 1
             else:
-                await ctx.send(
-                    "<:R_eclair:971673105024045056> Personaje kk")       
+                await ctx.send("<:R_eclair:971673105024045056> Personaje kk")  
+    await ctx.send("done")     
     if random.randint(1, 10000) >= 9500:
-        random1 = random.choice(featured_ssr_carnival)
-        await ctx.send(random1)
+        await ctx.send(random.choice(featured_ssr_carnival))
         puntos = puntos + 3
     else:
         await ctx.send(cualquier_ssr_carnival)
