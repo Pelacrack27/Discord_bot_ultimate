@@ -16,10 +16,8 @@ class Ayuda(commands.Cog):
   async def ayuda(self, ctx):
     embed=discord.Embed(title="Ayuda",  description="A continuación se muestran los multisummons diponibles", color=discord.Color.blue())
     embed.set_author(name=ctx.author.display_name,  icon_url=ctx.author.avatar_url)
-    embed.add_field(name="!multicarnival (Dragon stones)", value="Multisummon de carnival dokkan", inline=False)
-    embed.add_field(name="!multicooler (Dragon stones)", value="Multisummon de cooler LR", inline=False)
-    embed.add_field(name="!multidokkan1 (Dragon stones)", value="Multisummon de campaña mundial 1", inline=False)
-    embed.add_field(name="!multidokkan2 (Dragon stones)", value="Multisummon de campaña mundial 2", inline=False)
+    embed.add_field(name="!multipan (Dragon stones)", value="Multisummon de Pan GT", inline=False)
+    embed.add_field(name="!multiboss (Dragon stones)", value="Multisummon de bosses de GT", inline=False)
     embed.add_field(name="!tqdokkan1 (Tiquets)", value="Summon de tiquets de campaña mundial 1", inline=False)
     embed.add_field(name="!tqdokkan2 (Tiquets)", value="Summon de tiquets de campaña mundial 2", inline=False)
 
