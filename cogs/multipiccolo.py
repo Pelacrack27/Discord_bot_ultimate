@@ -8,21 +8,22 @@ animaciones_summons = [
   "https://c.tenor.com/c_MZLKFOgV0AAAAM/summon-anniversary.gif"
 ]
 
-featured_ssr_pan = [
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/d/d0/Card_1024980_thumb.png/revision/latest/scale-to-width-down/120?cb=20221003083008",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/3/39/Card_1024770_thumb.png/revision/latest/scale-to-width-down/120?cb=20221003083304",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/a/ac/Card_1023760_thumb.png/revision/latest/scale-to-width-down/120?cb=20220530065542",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/5/55/Card_1023100_thumb.png/revision/latest/scale-to-width-down/120?cb=20220225075649",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/a/a1/Card_1020980_thumb.png/revision/latest/scale-to-width-down/120?cb=20210131044905",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/f/f4/Card_1021910_thumb.png/revision/latest/scale-to-width-down/120?cb=20210427041153",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/0/06/Card_1021930_thumb.png/revision/latest/scale-to-width-down/120?cb=20210427041155"
+featured_ssr_piccolo = [
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/3/38/Card_1025570_thumb.png/revision/latest/scale-to-width-down/120?cb=20221227100134",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/c/ce/Card_1026080_thumb.png/revision/latest/scale-to-width-down/120?cb=20221227100552",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/5/57/Card_1022170_thumb.png/revision/latest/scale-to-width-down/120?cb=20211104102320",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/0/0c/Card_1015740_thumb.png/revision/latest/scale-to-width-down/120?cb=20190705085758",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/8/8b/Card_1017610_thumb.png/revision/latest/scale-to-width-down/120?cb=20190829035023",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/7/73/Card_1024280_thumb.png/revision/latest/scale-to-width-down/120?cb=20220426040336",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/8/8e/Card_1023450_thumb.png/revision/latest/scale-to-width-down/120?cb=20220331140325",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b8/Card_1022210_thumb.png/revision/latest/scale-to-width-down/120?cb=20211005121123",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/bf/Card_1021320_thumb.png/revision/latest/scale-to-width-down/120?cb=20210331131538",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/9/98/Card_1019580_thumb.png/revision/latest/scale-to-width-down/120?cb=20201105071645"
 
     
 ]
 
-cualquier_ssr_pan = [
-    "<:SSR_eclair:971672682712141844> Random",
-    "<:SSR_eclair:971672682712141844> Random",
+cualquier_ssr_piccolo = [
     "<:SSR_eclair:971672682712141844> Random",
     "<:SSR_eclair:971672682712141844> Random",
     "<:SSR_eclair:971672682712141844> Random",
@@ -260,19 +261,11 @@ cualquier_ssr_pan = [
     "<:SSR_eclair:971672682712141844> Random"
 ]
 
-cualquier_sr_pan = [
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/d/d9/Card_1005870_thumb.png/revision/latest/scale-to-width-down/120?cb=20160329223116",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/d/d2/Card_1002980_thumb.png/revision/latest/scale-to-width-down/120?cb=20151023213208",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/c/cd/Card_1000950_thumb.png/revision/latest/scale-to-width-down/120?cb=20150925122226",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/1/12/Card_1000190_thumb.png/revision/latest/scale-to-width-down/120?cb=20150925053429",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/0/0b/Card_1001860_thumb.png/revision/latest/scale-to-width-down/120?cb=20151009084104",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/f/fa/Card_1000880_thumb.png/revision/latest/scale-to-width-down/120?cb=20150925120349",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/9/95/Card_1000100_thumb.png/revision/latest/scale-to-width-down/120?cb=20150922212120",
-    "<:SR_eclair:971673046496731166> Random",
-    "<:SR_eclair:971673046496731166> Random",
-    "<:SR_eclair:971673046496731166> Random",
-    "<:SR_eclair:971673046496731166> Random",
-    "<:SR_eclair:971673046496731166> Random",
+cualquier_sr_piccolo = [
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/6/65/Card_1003750_thumb.png/revision/latest/scale-to-width-down/120?cb=20151026231128",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/3/31/Card_1000870_thumb.png/revision/latest/scale-to-width-down/120?cb=20150925115947",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/1/14/Card_1000090_thumb.png/revision/latest/scale-to-width-down/120?cb=20150922211825",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/4/40/Card_1001620_thumb.png/revision/latest/scale-to-width-down/120?cb=20150925131924",
     "<:SR_eclair:971673046496731166> Random",
     "<:SR_eclair:971673046496731166> Random",
     "<:SR_eclair:971673046496731166> Random",
@@ -294,7 +287,7 @@ cualquier_sr_pan = [
     "<:SR_eclair:971673046496731166> Random"
 ]
 
-class Multipan(commands.Cog):
+class Multipiccolo(commands.Cog):
 
   def __init__(self, client):
     self.client = client
@@ -302,11 +295,11 @@ class Multipan(commands.Cog):
   #Eventos del bot
   @commands.Cog.listener()
   async def on_ready(self):
-    print("multipan online")
+    print("multipiccolo online")
 
   #Comandos del bot
   @commands.command()
-  async def multipan(self, ctx):
+  async def multipiccolo(self, ctx):
     await ctx.send("**Empezando multisummon:**")
     await ctx.send("<:SSR_eclair:971672682712141844> Featured - 3 puntos")
     await ctx.send("<:SSR_eclair:971672682712141844> No featured - 2 puntos")
@@ -316,22 +309,22 @@ class Multipan(commands.Cog):
     for i in range(0, 9):
             numero = random.randint(1, 10000)
             if numero >= 9500:
-                random2 = random.choice(featured_ssr_pan)
-                await ctx.send(random2)
+                random2 = random.choice(featured_ssr_piccolo)
+                await ctx.send(random2)                             
                 puntos = puntos + 3
             elif numero >= 9000:
-                await ctx.send(random.choice(cualquier_ssr_pan))
+                await ctx.send(random.choice(cualquier_ssr_piccolo))
                 puntos = puntos + 2
             elif numero >= 3000:
-                await ctx.send(random.choice(cualquier_sr_pan))
+                await ctx.send(random.choice(cualquier_sr_piccolo))
                 puntos = puntos + 1
             else:
                 await ctx.send("<:R_eclair:971673105024045056> Personaje kk")  
     if random.randint(1, 10000) >= 9500:
-        await ctx.send(random.choice(featured_ssr_pan))
+        await ctx.send(random.choice(featured_ssr_piccolo))
         puntos = puntos + 3
     else:
-        await ctx.send(random.choice(cualquier_ssr_pan))
+        await ctx.send(random.choice(cualquier_ssr_piccolo))
         puntos = puntos + 2
     await ctx.send(f"Total de puntos: {puntos}")
     if puntos >= 15:
@@ -348,4 +341,4 @@ class Multipan(commands.Cog):
 
 
 def setup(client):
-	client.add_cog(Multipan(client))
+	client.add_cog(Multipiccolo(client))

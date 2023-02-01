@@ -8,84 +8,20 @@ animaciones_summons = [
   "https://c.tenor.com/c_MZLKFOgV0AAAAM/summon-anniversary.gif"
 ]
 
-featured_ssr_dokkan2 = [
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/0/06/Card_1021930_thumb.png/revision/latest/scale-to-width-down/120?cb=20210427041155",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b8/Card_1022210_thumb.png/revision/latest/scale-to-width-down/120?cb=20211005121123",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/c/c3/Card_1021800_thumb.png/revision/latest/scale-to-width-down/120?cb=20210809081331",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/1/12/Card_1021680_thumb.png/revision/latest/scale-to-width-down/120?cb=20210531065339",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/8/89/Card_1021280_thumb.png/revision/latest/scale-to-width-down/120?cb=20210331131353",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/a/a1/Card_1020980_thumb.png/revision/latest/scale-to-width-down/120?cb=20210131044905",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/f/fc/Card_1019730_thumb.png/revision/latest/scale-to-width-down/120?cb=20200810063632",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/9/98/Card_1019580_thumb.png/revision/latest/scale-to-width-down/120?cb=20201105071645",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/2/2f/Card_1018530_thumb.png/revision/latest/scale-to-width-down/120?cb=20191209025534",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/d/d7/Card_1019330_thumb.png/revision/latest/scale-to-width-down/120?cb=20200607173652",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/d/d1/Card_1018770_thumb.png/revision/latest/scale-to-width-down/120?cb=20200507075655",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/d/d0/Card_1018110_thumb.png/revision/latest/scale-to-width-down/120?cb=20200202233829",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/d/d0/Card_1018110_thumb.png/revision/latest/scale-to-width-down/120?cb=20200202233829",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/7/77/Card_1017070_thumb.png/revision/latest/scale-to-width-down/120?cb=20191111072145",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b6/Card_1015660_thumb.png/revision/latest/scale-to-width-down/120?cb=20181219092503",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/8/88/Card_1015960_thumb.png/revision/latest/scale-to-width-down/120?cb=20190213021558",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/9/9b/Card_1015460_thumb.png/revision/latest/scale-to-width-down/120?cb=20190425071334",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/f/f1/Card_1015150_thumb.png/revision/latest/scale-to-width-down/120?cb=20180831034133",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/3/39/Card_1014900_thumb.png/revision/latest/scale-to-width-down/120?cb=20181003083234",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/f/f4/Card_1013820_thumb.png/revision/latest/scale-to-width-down/120?cb=20181026001041",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b8/Card_1013480_thumb.png/revision/latest/scale-to-width-down/120?cb=20180515232550",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/f/fb/Card_1012730_thumb.png/revision/latest/scale-to-width-down/120?cb=20180420044147",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/a/a1/Card_1011770_thumb.png/revision/latest/scale-to-width-down/120?cb=20180603222653",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/6/6e/Card_1012370_thumb.png/revision/latest/scale-to-width-down/120?cb=20171221012218",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/8/88/Card_1012020_thumb.png/revision/latest/scale-to-width-down/120?cb=20180501231127",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/5/56/Card_1011310_thumb.png/revision/latest/scale-to-width-down/120?cb=20210503163533",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/f/f1/Card_1011050_thumb.png/revision/latest/scale-to-width-down/120?cb=20171211083850",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/5/50/Card_1010860_thumb.png/revision/latest/scale-to-width-down/120?cb=20171123185515",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b0/Card_1005990_thumb.png/revision/latest/scale-to-width-down/120?cb=20170915100641",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/a/aa/Card_1009080_thumb.png/revision/latest/scale-to-width-down/120?cb=20170829095413",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/4/47/Card_1009420_thumb.png/revision/latest/scale-to-width-down/120?cb=20170707192146",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/a/a6/Card_1009600_thumb.png/revision/latest/scale-to-width-down/120?cb=20170105091904",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/3/35/Card_1008810_thumb.png/revision/latest/scale-to-width-down/120?cb=20181126172636",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/5/54/Card_1009340_thumb.png/revision/latest/scale-to-width-down/120?cb=20161117101207",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/4/46/Card_1008840_thumb.png/revision/latest/scale-to-width-down/120?cb=20170301162048",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/e/e0/Card_1008100_thumb.png/revision/latest/scale-to-width-down/120?cb=20180915112942",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/7/74/Card_1007450_thumb.png/revision/latest/scale-to-width-down/120?cb=20160708150623",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/d/d1/Card_1008410_thumb.png/revision/latest/scale-to-width-down/120?cb=20180226195155",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/7/7d/Card_1003070_thumb.png/revision/latest/scale-to-width-down/120?cb=20160510030805",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b6/Card_1006680_thumb.png/revision/latest/scale-to-width-down/120?cb=20160403135645",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/7/73/Card_1005270_thumb.png/revision/latest/scale-to-width-down/120?cb=20160203225318",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/1/1e/Card_1004220_thumb.png/revision/latest/scale-to-width-down/120?cb=20151229000236",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/a/a6/Card_1003770_thumb.png/revision/latest/scale-to-width-down/120?cb=20151201174355"    
-]
-
-cualquier_ssr_dokkan2 = [
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/a/a2/Card_1018470_thumb.png/revision/latest/scale-to-width-down/120?cb=20200419104819",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/8/81/Card_1016820_thumb.png/revision/latest/scale-to-width-down/120?cb=20191218040222",
+featured_ssr_stepup2 = [
     "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/6/6a/Card_1011620_thumb.png/revision/latest/scale-to-width-down/120?cb=20180222012651",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/1/1b/Card_1019380_thumb.png/revision/latest/scale-to-width-down/120?cb=20200622044640",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/e/e5/Card_1016380_thumb.png/revision/latest/scale-to-width-down/120?cb=20190722232029",
     "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/e/e4/Card_1010150_thumb.png/revision/latest/scale-to-width-down/120?cb=20170612132201",
     "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/0/00/Card_1014950_thumb.png/revision/latest/scale-to-width-down/120?cb=20180912061410",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/1/15/Card_1007830_thumb.png/revision/latest/scale-to-width-down/120?cb=20180525003303",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/3/38/Card_1016850_thumb.png/revision/latest/scale-to-width-down/120?cb=20190520094451",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/9/90/Card_1011120_thumb.png/revision/latest/scale-to-width-down/120?cb=20171031001751",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/c/c6/Card_1018230_thumb.png/revision/latest/scale-to-width-down/120?cb=20200216181642",
     "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/3/33/Card_1016350_thumb.png/revision/latest/scale-to-width-down/120?cb=20190722231718",
     "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/b/b1/Card_1010050_thumb.png/revision/latest/scale-to-width-down/120?cb=20170707192320",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/d/df/Card_1018860_thumb.png/revision/latest/scale-to-width-down/120?cb=20200726045128",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/9/9c/Card_1012140_thumb.png/revision/latest/scale-to-width-down/120?cb=20180410100206",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/6/6a/Card_1019800_thumb.png/revision/latest/scale-to-width-down/120?cb=20200521235814",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/6/63/Card_1015600_thumb.png/revision/latest/scale-to-width-down/120?cb=20190201002233",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/4/42/Card_1013750_thumb.png/revision/latest/scale-to-width-down/120?cb=20180816223826",
     "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/9/97/Card_1005010_thumb.png/revision/latest/scale-to-width-down/120?cb=20191017070304",
     "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/3/31/Card_1010420_thumb.png/revision/latest/scale-to-width-down/120?cb=20170502115948",
     "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/0/09/Card_1014000_thumb.png/revision/latest/scale-to-width-down/120?cb=20181111033231",
     "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/3/3e/Card_1011700_thumb.png/revision/latest/scale-to-width-down/120?cb=20180122093608",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/5/5f/Card_1018980_thumb.png/revision/latest/scale-to-width-down/120?cb=20200726045058",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/e/e2/Card_1018010_thumb.png/revision/latest/scale-to-width-down/120?cb=20190917051921",
-    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/9/9c/Card_1014920_thumb.png/revision/latest/scale-to-width-down/120?cb=20181017101240",
-    "<:SSR_eclair:971672682712141844> Random",
-    "<:SSR_eclair:971672682712141844> Random",
-    "<:SSR_eclair:971672682712141844> Random",
-    "<:SSR_eclair:971672682712141844> Random",
-    "<:SSR_eclair:971672682712141844> Random",
-    "<:SSR_eclair:971672682712141844> Random",
+    "https://static.wikia.nocookie.net/dbz-dokkanbattle/images/9/9c/Card_1014920_thumb.png/revision/latest/scale-to-width-down/120?cb=20181017101240"
+]
+
+cualquier_ssr_stepup2 = [
     "<:SSR_eclair:971672682712141844> Random",
     "<:SSR_eclair:971672682712141844> Random",
     "<:SSR_eclair:971672682712141844> Random",
@@ -323,13 +259,7 @@ cualquier_ssr_dokkan2 = [
     "<:SSR_eclair:971672682712141844> Random"
 ]
 
-cualquier_sr_dokkan2 = [
-    "<:SR_eclair:971673046496731166> Random",
-    "<:SR_eclair:971673046496731166> Random",
-    "<:SR_eclair:971673046496731166> Random",
-    "<:SR_eclair:971673046496731166> Random",
-    "<:SR_eclair:971673046496731166> Random",
-    "<:SR_eclair:971673046496731166> Random",
+cualquier_sr_stepup2 = [
     "<:SR_eclair:971673046496731166> Random",
     "<:SR_eclair:971673046496731166> Random",
     "<:SR_eclair:971673046496731166> Random",
@@ -351,7 +281,7 @@ cualquier_sr_dokkan2 = [
     "<:SR_eclair:971673046496731166> Random"
 ]
 
-class Tqdokkan2(commands.Cog):
+class Stepup2(commands.Cog):
 
   def __init__(self, client):
     self.client = client
@@ -359,32 +289,33 @@ class Tqdokkan2(commands.Cog):
   #Eventos del bot
   @commands.Cog.listener()
   async def on_ready(self):
-    print("tqdokkan2 online")
+    print("stepup2 online")
 
   #Comandos del bot
   @commands.command()
-  async def tqdokkan2(self, ctx):
+  async def stepup2(self, ctx):
     await ctx.send("**Empezando multisummon:**")
     await ctx.send("<:SSR_eclair:971672682712141844> Featured - 3 puntos")
     await ctx.send("<:SSR_eclair:971672682712141844> No featured - 2 puntos")
     await ctx.send("<:SR_eclair:971673046496731166>  - 1 punto")
-    await ctx.send( random.choice(animaciones_summons))
+    await ctx.send(random.choice(animaciones_summons))
     puntos = 0
-    for i in range(0, 7):
+    for i in range(0, 9):
             numero = random.randint(1, 10000)
             if numero >= 9500:
-                random2 = random.choice(featured_ssr_dokkan2)
-                await ctx.send(random2)
+                random2 = random.choice(featured_ssr_stepup2)
+                await ctx.send(random2)                             
                 puntos = puntos + 3
             elif numero >= 9000:
-                await ctx.send(random.choice(cualquier_ssr_dokkan2))
+                await ctx.send(random.choice(cualquier_ssr_stepup2))
                 puntos = puntos + 2
             elif numero >= 3000:
-                await ctx.send(random.choice(cualquier_sr_dokkan2))
+                await ctx.send(random.choice(cualquier_sr_stepup2))
                 puntos = puntos + 1
             else:
-                await ctx.send(
-                    "<:R_eclair:971673105024045056> Personaje kk")
+                await ctx.send("<:R_eclair:971673105024045056> Personaje kk")  
+    await ctx.send(random.choice(featured_ssr_stepup2))
+    puntos = puntos + 3
     await ctx.send(f"Total de puntos: {puntos}")
     if puntos >= 15:
           await ctx.send("https://i.pinimg.com/564x/4c/4d/88/4c4d8867c58389c11d6d05221aa16632.jpg")
@@ -400,4 +331,4 @@ class Tqdokkan2(commands.Cog):
 
 
 def setup(client):
-	client.add_cog(Tqdokkan2(client))
+	client.add_cog(Stepup2(client))

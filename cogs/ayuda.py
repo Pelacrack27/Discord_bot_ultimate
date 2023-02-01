@@ -16,10 +16,16 @@ class Ayuda(commands.Cog):
   async def ayuda(self, ctx):
     embed=discord.Embed(title="Ayuda",  description="A continuación se muestran los multisummons diponibles", color=discord.Color.blue())
     embed.set_author(name=ctx.author.display_name,  icon_url=ctx.author.avatar_url)
-    embed.add_field(name="!multipan (Dragon stones)", value="Multisummon de Pan GT", inline=False)
-    embed.add_field(name="!multiboss (Dragon stones)", value="Multisummon de bosses de GT", inline=False)
-    embed.add_field(name="!tqdokkan1 (Tiquets)", value="Summon de tiquets de campaña mundial 1", inline=False)
-    embed.add_field(name="!tqdokkan2 (Tiquets)", value="Summon de tiquets de campaña mundial 2", inline=False)
+    embed.add_field(name="!probs", value="Probabilidades de summons (por si alguien no se las sabe)", inline=False)
+    embed.add_field(name="!multigohan", value="Multisummon de Gohan no-beast", inline=False)
+    embed.add_field(name="!multipiccolo", value="Multisummon de piccolo gigachad", inline=False)
+    embed.add_field(name="!stepup1", value="Multisummon de step-up (Primera rotacion)", inline=False)
+    embed.add_field(name="!stepup2", value="Multisummon de step-up (Segunda rotacion)", inline=False)
+    embed.add_field(name="!stepup3", value="Multisummon de step-up (Tercera rotacion)", inline=False)
+    embed.add_field(name="!stepup4", value="Multisummon de step-up (Cuarta rotacion)", inline=False)
+    embed.add_field(name="!stepup5", value="Multisummon de step-up (Quinta rotacion)", inline=False)
+    embed.add_field(name="!multigolden", value="Multisummon de golden Freezer LR", inline=False)
+
 
     embed.set_footer(text="Muchas gracias por usar el bot!")
     await ctx.send(embed=embed)
